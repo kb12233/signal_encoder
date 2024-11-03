@@ -125,7 +125,7 @@ export default function DigitalSignalEncoder() {
 
   return (
     <div className="container mx-auto p-4 flex flex-col items-center max-w-3xl">
-      <h1 className="text-2xl font-bold mb-4">Digital Signal Encoder</h1>
+      <h1 className="text-2xl font-bold mb-4">Signal Encoder</h1>
       <div className="mb-4 w-full max-w-md">
         <Label htmlFor="binaryInput">Enter Binary Signal:</Label>
         <Input
